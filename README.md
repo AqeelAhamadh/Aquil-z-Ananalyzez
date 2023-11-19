@@ -21,7 +21,7 @@ The cleaned datasets were seamlessly integrated into Power BI for advanced analy
 
 ### Sales Dashboard
 
-![Sales Dashboard](path/to/sales_dashboard.png)
+![Sales Dashboard](https://github.com/AqeelAhamadh/Aquil-z-Ananalyzez/blob/main/Sales%20Data%20Analysing/Dashboard%20of%20customer.png)
 
 This dashboard provides a comprehensive overview of sales performance, including key metrics, trends, and comparisons. Visualizations such as sales over time, revenue by product category, and regional sales distribution offer valuable insights.
 
